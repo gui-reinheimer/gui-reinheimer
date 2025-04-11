@@ -14,3 +14,29 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+# Hi, I'm guilherme 👋
+
+### hobbies 
+- academia;
+- ouvir musica;
+- viajar;
+
+### formaçao
+
+- ensino medio
+
+### Experiencia profissional
+
+- cb injetados: atuei como operador de injetora
+- cristal marmoraria: atuei como montador de moveis de granitos marmores e afins
+- verallia; atual empressa trabalho atualmente como operador de maquina is 
+
+### Estou estudando
+![Icone HTML ](https://img.icons8.com/?size=50&id=20909&format=png&color=000000)![Icone CSS ](https://img.icons8.com/?size=50&id=11935&format=png&color=000000)![Icone js ](https://img.icons8.com/?size=50&id=108784&format=png&color=000000)
+
+### Contatos
+
+[![Icone linkedin](https://img.icons8.com/?size=50&id=13930&format=png&color=000000)](https://www.linkedin.com/in/guilherme-reinheimer-47657219b/)
+
+-Email: guilhermereinheimer9636@gmail.com
