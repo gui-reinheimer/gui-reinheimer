@@ -1,42 +1,49 @@
-## Hi there 👋
+# 👋 Olá! Eu sou o Guilherme
 
-<!--
-**gui-reinheimer/gui-reinheimer** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### 🎯 Sobre mim
+Sou estudante de Desenvolvimento Web com foco em Front-End. Tenho interesse em tecnologia, gosto de aprender coisas novas e busco constantemente evoluir na área de programação.
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🎓 Formação
 
-# Hi, I'm guilherme 👋
+**Growdev**  
+_Curso de Desenvolvimento Web - Front-End (em andamento)_
 
-### hobbies 
-- academia;
-- ouvir musica;
-- viajar;
+**Escola Fernando Ferrari**  
+_Ensino Médio — Conclusão: 2015_
 
-### formaçao
+---
 
-- ensino medio
+### 💼 Experiência Profissional
 
-### Experiencia profissional
+**CB Injetados**  
+_Operador de Injetora_
 
-- cb injetados: atuei como operador de injetora
-- cristal marmoraria: atuei como montador de moveis de granitos marmores e afins
-- verallia; atual empressa trabalho atualmente como operador de maquina is 
+**Cristal Marmoraria**  
+_Montador de móveis de granito, mármore e similares_
 
-### Estou estudando
-![Icone HTML ](https://img.icons8.com/?size=50&id=20909&format=png&color=000000)![Icone CSS ](https://img.icons8.com/?size=50&id=11935&format=png&color=000000)![Icone js ](https://img.icons8.com/?size=50&id=108784&format=png&color=000000)
+**Verallia** _(atualmente)_  
+_Operador de máquina IS_
 
-### Contatos
+---
 
-[![Icone linkedin](https://img.icons8.com/?size=50&id=13930&format=png&color=000000)](https://www.linkedin.com/in/guilherme-reinheimer-47657219b/)
+### 📚 Estou estudando
 
--Email: guilhermereinheimer9636@gmail.com
+<img src="https://img.icons8.com/?size=50&id=20909&format=png&color=000000" alt="HTML" />  
+<img src="https://img.icons8.com/?size=50&id=11935&format=png&color=000000" alt="CSS" />  
+<img src="https://img.icons8.com/?size=50&id=108784&format=png&color=000000" alt="JavaScript" />
+
+---
+
+### 🎧 Hobbies
+- Academia 🏋️‍♂️  
+- Ouvir música 🎶  
+- Viajar 🌎
+
+---
+
+### 📬 Contato
+
+[![LinkedIn](https://img.icons8.com/?size=50&id=13930&format=png&color=000000)](https://www.linkedin.com/in/guilherme-reinheimer-47657219b/)  
+✉️ E-mail: [guilhermereinheimer9636@gmail.com](mailto:guilhermereinheimer9636@gmail.com)
