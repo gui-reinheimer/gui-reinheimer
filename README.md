@@ -30,9 +30,9 @@ _Operador de máquina IS_
 
 ### 📚 Estou estudando
 
-<img src="https://img.icons8.com/?size=50&id=20909&format=png&color=000000" alt="HTML" />  
-<img src="https://img.icons8.com/?size=50&id=11935&format=png&color=000000" alt="CSS" />  
-<img src="https://img.icons8.com/?size=50&id=108784&format=png&color=000000" alt="JavaScript" />
+<img src="https://img.icons8.com/?size=50&id=20909&format=png&color=000000" alt="HTML" /><img src="https://img.icons8.com/?size=50&id=11935&format=png&color=000000" alt="CSS" /><img src="https://img.icons8.com/?size=50&id=108784&format=png&color=000000" alt="JavaScript" />  
+  
+
 
 ---
 
