@@ -26,10 +26,6 @@ Sou estudante de **Desenvolvimento Web com foco em Front-End**, apaixonado por t
 
 ## 💼 Experiências profissionais
 
-Apesar de ainda não ter atuado na área de tecnologia, desenvolvi ao longo da minha jornada habilidades importantes como comprometimento, resolução de problemas e trabalho em equipe.
-
-## 💼 Experiências profissionais
-
 Apesar de ainda não ter atuado diretamente na área de tecnologia, desenvolvi ao longo da minha trajetória diversas habilidades importantes para o ambiente de desenvolvimento, como foco, organização, trabalho em equipe e resolução de problemas.
 
 ---
