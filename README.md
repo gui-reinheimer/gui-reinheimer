@@ -17,8 +17,10 @@ Sou estudante de **Desenvolvimento Web com foco em Front-End**, apaixonado por t
 ## 🎓 Formação
 
 - 🧑‍💻 **Growdev**  
-  _Desenvolvimento Web - Front-End (em andamento)_
+  _Desenvolvimento Web - Front-End
 
+- 🎓 **Curso em video**  
+  _HTML5 e CSS3 (Cursando)_
 - 🎓 **Escola Fernando Ferrari**  
   _Ensino Médio (2015)_
 
